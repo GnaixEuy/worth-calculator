@@ -114,7 +114,7 @@ export default function RootLayout({
               </a>
             </div>
             <div className="text-center">
-              <span className="text-[10px] text-gray-400 dark:text-gray-500">更多实用工具 by zippland.com</span>
+              <span className="text-[10px] text-gray-400 dark:text-gray-500">更多实用工具 by www.gnaixeuy.cn</span>
             </div>
           </div>
         </footer>
