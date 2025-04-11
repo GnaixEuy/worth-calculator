@@ -399,10 +399,10 @@ const SalaryCalculator = () => {
     
     // 在客户端环境中执行重定向
     if (typeof window !== 'undefined') {
-      const hostname = window.location.hostname;
-      if (hostname !== 'worthjob.gnaixeuy.cn' && hostname !== 'localhost' && !hostname.includes('127.0.0.1')) {
-        window.location.href = 'https://worthjob.gnaixeuy.cn' + window.location.pathname;
-      }
+      // const hostname = window.location.hostname;
+      // if (hostname !== 'worthjob.gnaixeuy.cn' && hostname !== 'localhost' && !hostname.includes('127.0.0.1')) {
+      //   window.location.href = 'https://worthjob.gnaixeuy.cn' + window.location.pathname;
+      // }
     }
   }, []);
   
