@@ -957,7 +957,7 @@ const SalaryCalculator = () => {
         
         <div className="mb-3">
           <a
-            href="https://github.com/zippland/worth-calculator"
+            href="https://github.com/gnaixeuy/worth-calculator"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors inline-flex items-center gap-1.5"
@@ -970,7 +970,7 @@ const SalaryCalculator = () => {
         <div className="flex items-center justify-center gap-3 mb-2">
           <p className="text-sm text-gray-500 dark:text-gray-400">v6.2.1</p>
           <a
-            href="https://github.com/zippland/worth-calculator"
+            href="https://github.com/gnaixeuy/worth-calculator"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-gray-500 hover:text-blue-500 dark:text-gray-400 dark:hover:text-blue-400 transition-colors flex items-center gap-1"
